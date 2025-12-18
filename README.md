@@ -10,7 +10,7 @@ I enjoy building practical AI systems from data to deployment.
 - Large Language Models (LLMs)
 - AI Agents & Applied AI
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - PyTorch
 - Transformers

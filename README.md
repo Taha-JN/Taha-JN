@@ -26,11 +26,6 @@ I enjoy building practical AI systems from data to deployment.
 - AI Agents for real-world use cases
 
 ##  Contact
-- Email: your_email
-- GitHub: https://github.com/your_username
+- Email: hypotahajhany@gmail.com
+- GitHub: https://github.com/Taha-JN
 
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->

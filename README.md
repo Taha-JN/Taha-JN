@@ -12,8 +12,8 @@ I enjoy building practical AI systems from data to deployment.
 - Large Language Models (LLMs)
 - AI Agents & Applied AI
 
-##  Tech Stack
-## 📚 Tech Stack
+
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -22,8 +22,8 @@ I enjoy building practical AI systems from data to deployment.
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <br><br>
-  <img src="https://img.shields.io/badge/Machine_Learning-20232A?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-20232A?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-20232A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-20232A?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />

@@ -13,6 +13,21 @@ I enjoy building practical AI systems from data to deployment.
 - AI Agents & Applied AI
 
 ##  Tech Stack
+## 📚 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-20232A?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-20232A?style=for-the-badge" alt="Deep Learning" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
 - Python
 - PyTorch
 - Transformers

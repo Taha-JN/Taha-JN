@@ -13,9 +13,8 @@ I enjoy building practical AI systems from data to deployment.
 - AI Agents & Applied AI
 
 
-## Tech Stack
 
-## 📚 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />

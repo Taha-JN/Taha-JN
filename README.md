@@ -32,9 +32,10 @@ I enjoy building practical AI systems from data to deployment.
 
   
 ##  What I'm Working On
-- LLM fine-tuning (LoRA)
+- LLM fine-tuning 
 - End-to-End AI projects
 - AI Agents for real-world use cases
+- RAG
 
 ##  Contact
 - Email: hypotahajhany@gmail.com

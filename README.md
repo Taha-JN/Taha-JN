@@ -33,6 +33,9 @@ I enjoy building practical AI systems from data to deployment.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
+<br><br>
+
+## GitHub Analytics
 <div align="center">
   <a href="https://github.com/Taha-JN">
     <img src="https://streak-stats.demolab.com?user=Taha-JN&theme=radium&hide_border=true&border_radius=10" alt="GitHub Streak" />

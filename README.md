@@ -40,4 +40,5 @@ I enjoy building practical AI systems from data to deployment.
 ##  Contact
 - Email: hypotahajhany@gmail.com
 - GitHub: https://github.com/Taha-JN
+- LinkedIn: http://www.linkedin.com/in/tahajahany
 

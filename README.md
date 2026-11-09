@@ -1,25 +1,18 @@
-# Taha jahany
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&height=60&lines=Hello!,+I'm+Taha;AI+Engineer;Machine+Learning+Developer;Deep+Learning+Developer;Learn.+Build.+Share." alt="Typing SVG" />
-</p>
-
-I'm an AI Engineer focused on Machine Learning, Deep Learning, and RAG.  
-I enjoy building practical AI systems from data to deployment.
-
-##  Areas of Interest
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Large Language Models (LLMs)
-- AI Agents & Applied AI
-- RAG
-
-<br><br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-JN&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Taha;AI+Engineer;Machine+Learning+Developer;Deep+Learning+Developer;Learn.+Build.+Share." alt="Typing SVG" />
 </div>
 
-## Tech Stack
+<br>
+
+## 👨‍💻 About Me
+- 🚀 **Focus:** Artificial Intelligence, Deep Learning, and Scientific Machine Learning (SciML).
+- 🛠️ **Current Projects:** Building Multi-Agent Path Finding models and Graph Neural Networks.
+- 🎓 **Background:** Electrotechnics & Software Development.
+- 📫 **Reach me at:** [Your LinkedIn Link Here]
+
+<br>
+
+## 📚 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -28,22 +21,21 @@ I enjoy building practical AI systems from data to deployment.
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <br><br>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-20232A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-20232A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-20232A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/-Deep_Learning-20232A?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-  
-##  What I'm Working On
-- LLM fine-tuning 
-- End-to-End AI projects
-- AI Agents for real-world use cases
-- RAG
+<br>
 
-##  Contact
-- Email: hypotahajhany@gmail.com
-- GitHub: https://github.com/Taha-JN
-- LinkedIn: http://www.linkedin.com/in/tahajahany
+## 📊 GitHub Analytics
 
+<div align="center">
+  <a href="https://github.com/Taha-JN">
+    <img src="https://streak-stats.demolab.com?user=Taha-JN&theme=radium&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>

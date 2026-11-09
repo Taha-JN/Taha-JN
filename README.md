@@ -15,10 +15,6 @@ I enjoy building practical AI systems from data to deployment.
 
 <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-JN&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</div>
-
 ## Tech Stack
 
 <div align="center">
@@ -37,6 +33,11 @@ I enjoy building practical AI systems from data to deployment.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/Taha-JN">
+    <img src="https://streak-stats.demolab.com?user=Taha-JN&theme=radium&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
   
 ##  What I'm Working On
 - LLM fine-tuning 

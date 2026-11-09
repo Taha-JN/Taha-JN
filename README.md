@@ -1,18 +1,25 @@
+# Taha jahany
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&height=60&lines=Hello!,+I'm+Taha;AI+Engineer;Machine+Learning+Developer;Deep+Learning+Developer;Learn.+Build.+Share." alt="Typing SVG" />
+</p>
+
+I'm an AI Engineer focused on Machine Learning, Deep Learning, and RAG.  
+I enjoy building practical AI systems from data to deployment.
+
+##  Areas of Interest
+- Machine Learning & Deep Learningش
+- Natural Language Processing
+- Large Language Models (LLMs)
+- AI Agents & Applied AI
+- RAG
+
+<br><br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Taha;AI+Engineer;Machine+Learning+Developer;Deep+Learning+Developer;Learn.+Build.+Share." alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taha-JN&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<br>
-
-## 👨‍💻 About Me
-- 🚀 **Focus:** Artificial Intelligence, Deep Learning, and Scientific Machine Learning (SciML).
-- 🛠️ **Current Projects:** Building Multi-Agent Path Finding models and Graph Neural Networks.
-- 🎓 **Background:** Electrotechnics & Software Development.
-- 📫 **Reach me at:** [Your LinkedIn Link Here]
-
-<br>
-
-## 📚 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -30,12 +37,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-<br>
+  
+##  What I'm Working On
+- LLM fine-tuning 
+- End-to-End AI projects
+- AI Agents for real-world use cases
+- RAG
 
-## 📊 GitHub Analytics
+##  Contact
+- Email: hypotahajhany@gmail.com
+- GitHub: https://github.com/Taha-JN
+- LinkedIn: http://www.linkedin.com/in/tahajahany
 
-<div align="center">
-  <a href="https://github.com/Taha-JN">
-    <img src="https://streak-stats.demolab.com?user=Taha-JN&theme=radium&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
-</div>

@@ -11,7 +11,7 @@ I enjoy building practical AI systems from data to deployment.
 - Natural Language Processing
 - Large Language Models (LLMs)
 - AI Agents & Applied AI
-
+- RAG
 
 
 ## Tech Stack

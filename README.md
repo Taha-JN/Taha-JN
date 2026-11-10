@@ -1,6 +1,6 @@
 # Taha jahany
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&height=60&lines=Hello!,+I'm+Taha;AI+Engineer;Machine+Learning+Developer;Deep+Learning+Developer;Learn.+Build.+Share." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&height=60&lines=Hello!+I'm+Taha;AI+Engineer;Machine+Learning+Developer;Deep+Learning+Developer;Learn.+Build.+Share." alt="Typing SVG" />
 </p>
 
 I'm an AI Engineer focused on Machine Learning, Deep Learning, and RAG.  
